@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find NearBy</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="google_maps_api">AIzaSyCe4WrcZr1NROQ-Rk7E3eCFA7mgCwUGwWo</string>
+</resources>
