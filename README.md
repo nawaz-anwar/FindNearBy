@@ -4,6 +4,8 @@ App Name: My Grocery
 
 Discriptions: Find NearBy helps us to nearest ATMs, Shops and Restaurant etc. This Project is assigned by smartInternz
 
+Video Demo: https://drive.google.com/file/d/1AbsUVMJIEeAL2PkVBdJZiZnyzhdUDTBg/view?usp=drivesdk
+
 Name: Nawaz Anwar
 
 SBID: SB20220203052
