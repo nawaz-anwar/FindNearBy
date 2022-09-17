@@ -6,6 +6,8 @@ Discriptions: Find NearBy helps us to nearest ATMs, Shops and Restaurant etc. Th
 
 Video Demo: https://drive.google.com/file/d/1AbsUVMJIEeAL2PkVBdJZiZnyzhdUDTBg/view?usp=drivesdk
 
+Project Report: https://drive.google.com/file/d/19xadTszvMsiQJ7-WsroMO7s9ARA7TGGu/view?usp=sharing
+
 Name: Nawaz Anwar
 
 SBID: SB20220203052
