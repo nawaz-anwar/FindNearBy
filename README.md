@@ -1,6 +1,6 @@
 Virtual Internship - Android Application Development using Kotlin
 
-App Name: My Grocery
+App Name: Find NearBy
 
 Discriptions: Find NearBy helps us to nearest ATMs, Shops and Restaurant etc. This Project is assigned by smartInternz
 
